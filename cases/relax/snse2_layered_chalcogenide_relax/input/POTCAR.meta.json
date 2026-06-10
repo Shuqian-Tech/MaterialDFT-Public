@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Sn",
+      "potcar_symbol": "Sn_d",
+      "path_hint": "Sn_d/POTCAR",
+      "sha256": "6d289e176be4e6a602e9ff50df7281005ccf93cf49e4a9d11c5ea717e0b974ee"
+    },
+    {
+      "element": "Se",
+      "potcar_symbol": "Se",
+      "path_hint": "Se/POTCAR",
+      "sha256": "a05c46eb38f572c2de1fee7a555d4b6220baa57b41bdf4f82cef84f7b0e114c1"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Sc",
+      "potcar_symbol": "Sc_sv",
+      "path_hint": "Sc_sv/POTCAR",
+      "sha256": "4526ab123855eb4efa39903becc1e4720ee9ba6169544b04c3558e0796b4c38f"
+    },
+    {
+      "element": "N",
+      "potcar_symbol": "N",
+      "path_hint": "N/POTCAR",
+      "sha256": "c3b51ab8258f836d3c8d29beefa95be51fc95b5d0ab7aca6cba204207a69162a"
+    }
+  ]
+}

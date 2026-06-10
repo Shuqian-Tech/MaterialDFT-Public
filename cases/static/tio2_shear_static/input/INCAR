@@ -1,0 +1,15 @@
+SYSTEM = Y117_static_tio2_shear_lreal_auto_imix4_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+NELM = 60
+ISPIN = 1
+ISMEAR = 0
+SIGMA = 0.05
+NSW = 0
+IBRION = -1
+ISIF = 2
+IMIX = 4
+LREAL = Auto
+ISYM = 0

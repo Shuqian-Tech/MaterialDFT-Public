@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "element": "B",
+      "path_hint": "B/POTCAR",
+      "sha256": "3c576d41d253782b61eacc6b38f22578b3e9d5f15e67b0b0b37215a332ce8a35"
+    },
+    {
+      "element": "N",
+      "path_hint": "N/POTCAR",
+      "sha256": "c3b51ab8258f836d3c8d29beefa95be51fc95b5d0ab7aca6cba204207a69162a"
+    }
+  ]
+}

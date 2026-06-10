@@ -1,0 +1,10 @@
+SYSTEM = G01_static_alkali_early_metal_bulk_mp_005
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-06
+ISPIN = 1
+ISMEAR = 1
+SIGMA = 0.2
+NSW = 0
+IBRION = -1
+ISIF = 2

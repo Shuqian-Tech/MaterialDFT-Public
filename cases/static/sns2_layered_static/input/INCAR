@@ -1,0 +1,10 @@
+SYSTEM = G08_static_layered_chalcogenide_bulk_003
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-06
+ISPIN = 1
+ISMEAR = 0
+SIGMA = 0.05
+NSW = 0
+IBRION = -1
+ISIF = 2

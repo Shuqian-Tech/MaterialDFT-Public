@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Zr",
+      "potcar_symbol": "Zr_sv",
+      "path_hint": "Zr_sv/POTCAR",
+      "sha256": "e3d75732e64ed47e733ef12202d7082321f6b043dd450e16fe03b686b180cdc0"
+    }
+  ]
+}

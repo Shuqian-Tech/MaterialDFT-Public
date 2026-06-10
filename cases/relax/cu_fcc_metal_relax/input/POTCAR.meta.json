@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Cu",
+      "potcar_symbol": "Cu",
+      "path_hint": "Cu/POTCAR",
+      "sha256": "b64dae53834dc113c0e23e6a6d919c9f23446fffbe5b6a1a7c48410998f6f67d"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Zn",
+      "potcar_symbol": "Zn",
+      "path_hint": "Zn/POTCAR",
+      "sha256": "a9e75569c74432b6efe4f522da7317143f7ca230c1076b8adbff8e3ef9494c0b"
+    },
+    {
+      "element": "S",
+      "potcar_symbol": "S",
+      "path_hint": "S/POTCAR",
+      "sha256": "a0db583a5582a6ea7248e439ca0fc308947aa01f78aa2c9fae40f93d335218de"
+    }
+  ]
+}

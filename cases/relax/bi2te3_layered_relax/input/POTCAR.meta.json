@@ -1,0 +1,21 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Bi",
+      "potcar_symbol": "Bi",
+      "title": "PAW_PBE Bi 08Apr2002",
+      "potcar_set": "PBE",
+      "sha256": "c690121f28e9ed0062a7761a681f2bf9a266e50db7cf8363b4bd388758898cc7",
+      "path_hint": "PBE/Bi/POTCAR"
+    },
+    {
+      "element": "Te",
+      "potcar_symbol": "Te",
+      "title": "PAW_PBE Te 08Apr2002",
+      "potcar_set": "PBE",
+      "sha256": "420e8b7fcf5a5d19a78e04e0a5e018a05054b0d224e312acd94c67083917fab3",
+      "path_hint": "PBE/Te/POTCAR"
+    }
+  ]
+}

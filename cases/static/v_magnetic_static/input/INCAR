@@ -1,0 +1,11 @@
+SYSTEM = G04_static_new_magnetic_bulk_002
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-06
+ISPIN = 2
+ISMEAR = 1
+SIGMA = 0.2
+NSW = 0
+IBRION = -1
+ISIF = 2
+MAGMOM = 3 3

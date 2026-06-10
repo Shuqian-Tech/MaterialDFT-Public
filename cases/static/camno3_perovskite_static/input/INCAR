@@ -1,0 +1,14 @@
+SYSTEM = camno3_perovskite_static
+GGA = PE
+PREC = Normal
+ENCUT = 520
+EDIFF = 1e-05
+ISPIN = 2
+MAGMOM = 0 4 0 0 0
+ISMEAR = 1
+SIGMA = 0.12
+NELM = 60
+NSW = 0
+IBRION = -1
+ISIF = 2
+IMIX = 4

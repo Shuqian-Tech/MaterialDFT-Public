@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Co",
+      "potcar_symbol": "Co",
+      "path_hint": "Co/POTCAR",
+      "sha256": "3ae14252e5e27e2e5a5730c8d8131c6a7ea573dcc9d4d3d392959f07a3f519ee"
+    }
+  ]
+}

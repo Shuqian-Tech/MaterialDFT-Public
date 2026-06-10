@@ -1,0 +1,13 @@
+SYSTEM = G24_relax_scf_unconverged_holdout_bulk_001
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-10
+EDIFFG = -0.04
+ISPIN = 2
+ISMEAR = 1
+SIGMA = 0.2
+NELM = 6
+NSW = 20
+IBRION = 2
+ISIF = 2
+MAGMOM = 5 5

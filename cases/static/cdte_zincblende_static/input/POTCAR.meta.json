@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Cd",
+      "potcar_symbol": "Cd",
+      "path_hint": "Cd/POTCAR",
+      "sha256": "d05cfe5e86f68dd511f07cc24345a088413980016b98bb2c220619760f6fa17f"
+    },
+    {
+      "element": "Te",
+      "potcar_symbol": "Te",
+      "path_hint": "Te/POTCAR",
+      "sha256": "420e8b7fcf5a5d19a78e04e0a5e018a05054b0d224e312acd94c67083917fab3"
+    }
+  ]
+}

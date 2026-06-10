@@ -1,0 +1,14 @@
+SYSTEM = Y16_relax_as_a7_rhombohedral_isif3_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+EDIFFG = -0.02
+NELM = 60
+ISPIN = 1
+ISMEAR = 1
+SIGMA = 0.2
+NSW = 2
+IBRION = 2
+ISIF = 3
+POTIM = 0.1

@@ -1,0 +1,12 @@
+SYSTEM = G27_relax_fast_holdout_bulk_smoke_001
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-06
+EDIFFG = -0.03
+ISPIN = 1
+ISMEAR = 1
+SIGMA = 0.2
+NELM = 8
+NSW = 1
+IBRION = 2
+ISIF = 2

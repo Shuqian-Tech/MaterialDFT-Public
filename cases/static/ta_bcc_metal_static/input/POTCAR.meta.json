@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Ta",
+      "potcar_symbol": "Ta_pv",
+      "path_hint": "Ta_pv/POTCAR",
+      "sha256": "ffb05e92ac3f68ca84c26af10a80f2fbb0cf79e16fcc96fcae98089455bbbaaa"
+    }
+  ]
+}

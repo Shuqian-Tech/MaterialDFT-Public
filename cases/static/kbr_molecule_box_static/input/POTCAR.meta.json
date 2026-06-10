@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "K",
+      "potcar": "K_sv",
+      "path_hint": "K_sv/POTCAR",
+      "sha256": "85540f86ce902109258423bbdc4c8e85482cbb179763cbce115045d4e1f51784"
+    },
+    {
+      "element": "Br",
+      "potcar": "Br",
+      "path_hint": "Br/POTCAR",
+      "sha256": "c76103971c04f7987d206b245752535bcac1f15e7af19a9e430848e1be2845b6"
+    }
+  ]
+}

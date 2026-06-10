@@ -1,0 +1,12 @@
+SYSTEM = Y17_static_diamond_si_cubic_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+NELM = 60
+ISPIN = 1
+ISMEAR = -5
+SIGMA = 0.05
+NSW = 0
+IBRION = -1
+ISIF = 2

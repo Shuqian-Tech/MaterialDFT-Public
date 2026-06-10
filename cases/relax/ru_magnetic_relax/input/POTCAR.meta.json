@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Ru",
+      "potcar_symbol": "Ru",
+      "title": "PAW_PBE Ru 04Feb2005",
+      "potcar_set": "PBE",
+      "sha256": "6a49424eeffec132c190b3ab1bc94c665c7be20644db60d2d41253177075e9f1",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\Ru\\POTCAR"
+    }
+  ]
+}

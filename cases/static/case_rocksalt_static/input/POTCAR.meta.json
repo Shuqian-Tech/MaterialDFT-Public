@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Ca",
+      "potcar_symbol": "Ca_pv",
+      "path_hint": "Ca_pv/POTCAR",
+      "sha256": "97031e337cc88b5eebac6332e4a2ed4870e1d3c66cb487f3f2d9ad75701e4caf"
+    },
+    {
+      "element": "Se",
+      "potcar_symbol": "Se",
+      "path_hint": "Se/POTCAR",
+      "sha256": "a05c46eb38f572c2de1fee7a555d4b6220baa57b41bdf4f82cef84f7b0e114c1"
+    }
+  ]
+}

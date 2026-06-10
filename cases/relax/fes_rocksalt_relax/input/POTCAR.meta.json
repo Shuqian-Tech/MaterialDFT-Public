@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Fe",
+      "potcar_symbol": "Fe",
+      "path_hint": "Fe/POTCAR",
+      "sha256": "519ad496e3627c9885028da91cc038103aabe65859ad2bde1964f223ccb49c0f"
+    },
+    {
+      "element": "S",
+      "potcar_symbol": "S",
+      "path_hint": "S/POTCAR",
+      "sha256": "a0db583a5582a6ea7248e439ca0fc308947aa01f78aa2c9fae40f93d335218de"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Sr",
+      "potcar_symbol": "Sr_sv",
+      "title": "PAW_PBE Sr_sv 07Sep2000",
+      "potcar_set": "PBE",
+      "sha256": "a8389d3481648516ee67182ee030b298d280b37e29cbbf2d8595f040d757c710",
+      "path_hint": "PBE/Sr_sv/POTCAR"
+    }
+  ],
+  "notice": "POTCAR is not distributed in this public package. Provide a VASP-format POTCAR matching this input."
+}

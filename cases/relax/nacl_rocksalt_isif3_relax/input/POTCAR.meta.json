@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Na",
+      "potcar": "Na",
+      "path_hint": "Na/POTCAR",
+      "sha256": "55bcdbec341d01d2545a5e3c323f176e2e8946cfa979ad5ae670df22c48b175b"
+    },
+    {
+      "element": "Cl",
+      "potcar": "Cl",
+      "path_hint": "Cl/POTCAR",
+      "sha256": "5cf7cdbf0ea3349bae530d58a74234730aedbdd224243ec9cabf7aa5d236a794"
+    }
+  ]
+}

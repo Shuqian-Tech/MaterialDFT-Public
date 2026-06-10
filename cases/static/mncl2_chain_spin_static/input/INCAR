@@ -1,0 +1,16 @@
+SYSTEM = Y108_static_mncl2_chain_spin_lreal_true_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+NELM = 60
+ISPIN = 2
+MAGMOM = 2*4 4*0
+ISMEAR = 0
+SIGMA = 0.05
+NSW = 0
+IBRION = -1
+ISIF = 2
+IMIX = 1
+LREAL = .TRUE.
+ISYM = 0

@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "element": "Ba",
+      "potcar_symbol": "Ba_sv",
+      "path_hint": "Ba_sv/POTCAR",
+      "sha256": "80d83c46d456075aa25e15b2c9d175162fad19a89a231883c48a57ae42ad62ed"
+    },
+    {
+      "element": "Co",
+      "potcar_symbol": "Co",
+      "path_hint": "Co/POTCAR",
+      "sha256": "3ae14252e5e27e2e5a5730c8d8131c6a7ea573dcc9d4d3d392959f07a3f519ee"
+    },
+    {
+      "element": "O",
+      "potcar_symbol": "O",
+      "path_hint": "O/POTCAR",
+      "sha256": "8a74b9a1f5fdb3d0c3e0183c7873177abdbef07d407b310b7edcd9ed0a3eea64"
+    }
+  ]
+}

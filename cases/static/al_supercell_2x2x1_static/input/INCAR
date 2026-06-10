@@ -1,0 +1,13 @@
+SYSTEM = al_supercell_2x2x1_static
+GGA = PE
+PREC = Normal
+ENCUT = 430
+EDIFF = 1e-05
+ISPIN = 1
+ISMEAR = 1
+SIGMA = 0.15
+NELM = 60
+NSW = 0
+IBRION = -1
+ISIF = 2
+IMIX = 4

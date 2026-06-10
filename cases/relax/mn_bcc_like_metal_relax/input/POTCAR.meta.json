@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Mn",
+      "potcar_symbol": "Mn",
+      "path_hint": "Mn/POTCAR",
+      "sha256": "29c99dd23e43f0a3d2eed12dd55948ee28a9dfa8fc9b483ff6530556d53bd409"
+    }
+  ]
+}

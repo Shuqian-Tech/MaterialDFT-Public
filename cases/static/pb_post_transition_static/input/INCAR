@@ -1,0 +1,10 @@
+SYSTEM = G03_static_post_transition_bulk_fd_002
+GGA = PE
+ENCUT = 520
+EDIFF = 1e-06
+ISPIN = 1
+ISMEAR = -1
+SIGMA = 0.1
+NSW = 0
+IBRION = -1
+ISIF = 2

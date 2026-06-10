@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Cl",
+      "potcar_symbol": "Cl",
+      "title": "PAW_PBE Cl 06Sep2000",
+      "potcar_set": "PBE",
+      "sha256": "5cf7cdbf0ea3349bae530d58a74234730aedbdd224243ec9cabf7aa5d236a794",
+      "path_hint": "PBE/Cl/POTCAR"
+    }
+  ]
+}

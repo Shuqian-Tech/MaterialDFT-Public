@@ -1,0 +1,22 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Li",
+      "potcar_symbol": "Li",
+      "title": "PAW_PBE Li 17Jan2003",
+      "potcar_set": "PBE",
+      "sha256": "3d9d9bfd1dd25b20a3b919cb3191e6ef627605783dc2e149b9290ff31c32aa6e",
+      "path_hint": "PBE/Li/POTCAR"
+    },
+    {
+      "element": "F",
+      "potcar_symbol": "F",
+      "title": "PAW_PBE F 08Apr2002",
+      "potcar_set": "PBE",
+      "sha256": "53c630871ac675939349fc2b976745ee17808dedc90b5bdde026bc81f0faf456",
+      "path_hint": "PBE/F/POTCAR"
+    }
+  ],
+  "notice": "POTCAR is not distributed in this public package. Provide a VASP-format POTCAR matching this input."
+}

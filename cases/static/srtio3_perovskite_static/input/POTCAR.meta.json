@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "element": "Sr",
+      "potcar": "Sr_sv",
+      "path_hint": "Sr_sv/POTCAR",
+      "sha256": "26957a1630f71512c13dcfcbb74950a3188e7890abd628900a2aa06246dbe8f4"
+    },
+    {
+      "element": "Ti",
+      "potcar": "Ti",
+      "path_hint": "Ti/POTCAR",
+      "sha256": "25f970c4a3fb3651fd88a874985f9a77728d97c413bdcd4eb3fb818f6258cefe"
+    },
+    {
+      "element": "O",
+      "potcar": "O",
+      "path_hint": "O/POTCAR",
+      "sha256": "8a74b9a1f5fdb3d0c3e0183c7873177abdbef07d407b310b7edcd9ed0a3eea64"
+    }
+  ]
+}

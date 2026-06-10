@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Ca",
+      "potcar_symbol": "Ca_sv",
+      "title": "PAW_PBE Ca_sv 06Sep2000",
+      "potcar_set": "PBE",
+      "sha256": "8dce80a24be8c5ff693fb75030bc75d0271b6445cad28579bb0950703fb52643",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\Ca_sv\\POTCAR"
+    }
+  ]
+}

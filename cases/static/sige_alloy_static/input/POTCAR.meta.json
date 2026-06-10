@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "element": "Si",
+      "path_hint": "Si/POTCAR",
+      "sha256": "2a6df1c19701e5d97aaa59e5470b14653ddbd76935b76dacdd8792eb2eba252c"
+    },
+    {
+      "element": "Ge",
+      "path_hint": "Ge/POTCAR",
+      "sha256": "fd83126ce2b2557ab7a0e13c4d7d5f3b845d60c5c18d02b35b4e8f864f359dc0"
+    }
+  ]
+}

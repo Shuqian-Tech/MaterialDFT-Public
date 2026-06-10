@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Rh",
+      "potcar_symbol": "Rh",
+      "title": "PAW_PBE Rh 04Feb2005",
+      "potcar_set": "PBE",
+      "sha256": "7e26a6c5f4bbb11f6d546708200d6aa3efbce224d7a794489bde4440a0d6e9c2",
+      "path_hint": "PBE/Rh/POTCAR"
+    }
+  ]
+}

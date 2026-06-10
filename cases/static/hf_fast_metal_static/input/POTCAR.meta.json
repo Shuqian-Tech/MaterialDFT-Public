@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Hf",
+      "potcar_symbol": "Hf_pv",
+      "title": "PAW_PBE Hf_pv 06Sep2000",
+      "potcar_set": "PBE",
+      "sha256": "db42cd3e4a48e81eaff18895282e2f5a37f2c8c6a4b9ac45e357affc13c83b84",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\Hf_pv\\POTCAR"
+    }
+  ]
+}

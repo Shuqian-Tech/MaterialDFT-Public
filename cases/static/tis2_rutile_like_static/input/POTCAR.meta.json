@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Ti",
+      "potcar_symbol": "Ti_pv",
+      "path_hint": "Ti_pv/POTCAR",
+      "sha256": "1a7a8efddf2a5b6c8861aa48543d0531abc8e9b6e54500458b415b06354c25ba"
+    },
+    {
+      "element": "S",
+      "potcar_symbol": "S",
+      "path_hint": "S/POTCAR",
+      "sha256": "a0db583a5582a6ea7248e439ca0fc308947aa01f78aa2c9fae40f93d335218de"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Ru",
+      "potcar_symbol": "Ru",
+      "title": "PAW_PBE Ru 04Feb2005",
+      "potcar_set": "PBE",
+      "sha256": "eb01c60891ca575667b21dd13fd73e5ddb700a7eb60f8fc9c1c02aa9d1087909",
+      "path_hint": "PBE/Ru/POTCAR"
+    }
+  ],
+  "notice": "POTCAR is not distributed in this public package. Provide a VASP-format POTCAR matching this input."
+}

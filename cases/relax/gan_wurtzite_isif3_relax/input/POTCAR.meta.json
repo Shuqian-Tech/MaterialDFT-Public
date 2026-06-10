@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Ga",
+      "potcar": "Ga",
+      "path_hint": "Ga/POTCAR",
+      "sha256": "9d4721f1a647d8b8e6f494f996ecffbd5d6cdd4819b7b2917ee319531eae10db"
+    },
+    {
+      "element": "N",
+      "potcar": "N",
+      "path_hint": "N/POTCAR",
+      "sha256": "c3b51ab8258f836d3c8d29beefa95be51fc95b5d0ab7aca6cba204207a69162a"
+    }
+  ]
+}

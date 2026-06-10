@@ -1,0 +1,13 @@
+SYSTEM = Y07_static_bcc_fe_spin_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+NELM = 60
+ISPIN = 2
+ISMEAR = 1
+SIGMA = 0.2
+NSW = 0
+IBRION = -1
+ISIF = 2
+MAGMOM = 2.2 2.2

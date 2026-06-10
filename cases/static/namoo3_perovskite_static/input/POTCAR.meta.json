@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "element": "Na",
+      "potcar_symbol": "Na_pv",
+      "path_hint": "Na_pv/POTCAR",
+      "sha256": "2b32d860c36ba9efd322064e6ef91f9ebc70c2d6cae24ff69702d8368748bb32"
+    },
+    {
+      "element": "Mo",
+      "potcar_symbol": "Mo_pv",
+      "path_hint": "Mo_pv/POTCAR",
+      "sha256": "58bd9a91067c7debbbe0998aa4f061c16bcd88e23c3dfbf3beaa0862475a9462"
+    },
+    {
+      "element": "O",
+      "potcar_symbol": "O",
+      "path_hint": "O/POTCAR",
+      "sha256": "8a74b9a1f5fdb3d0c3e0183c7873177abdbef07d407b310b7edcd9ed0a3eea64"
+    }
+  ]
+}

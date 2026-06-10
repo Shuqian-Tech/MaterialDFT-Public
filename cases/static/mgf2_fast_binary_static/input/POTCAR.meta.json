@@ -1,0 +1,21 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Mg",
+      "potcar_symbol": "Mg",
+      "title": "PAW_PBE Mg 13Apr2007",
+      "potcar_set": "PBE",
+      "sha256": "91e560d99171f01a757253583d9a257ca7aab8911d7fa28ebabfbf3e6356a096",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\Mg\\POTCAR"
+    },
+    {
+      "element": "F",
+      "potcar_symbol": "F",
+      "title": "PAW_PBE F 08Apr2002",
+      "potcar_set": "PBE",
+      "sha256": "ec55d2d2ba9b66dab8054d479e8aa803f576915d541bf26f5d1ecce77f4e501c",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\F\\POTCAR"
+    }
+  ]
+}

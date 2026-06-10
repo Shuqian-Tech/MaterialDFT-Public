@@ -1,0 +1,5 @@
+请将符合 VASP 格式的 Pb POTCAR 放到本目录，并命名为：
+
+POTCAR
+
+本公开包不分发 VASP POTCAR 或赝势文件。

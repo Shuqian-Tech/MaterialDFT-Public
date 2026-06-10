@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Ge",
+      "potcar_symbol": "Ge",
+      "path_hint": "Ge/POTCAR",
+      "sha256": "fd83126ce2b2557ab7a0e13c4d7d5f3b845d60c5c18d02b35b4e8f864f359dc0"
+    }
+  ]
+}

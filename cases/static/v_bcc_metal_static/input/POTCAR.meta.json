@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "V",
+      "potcar_symbol": "V_pv",
+      "path_hint": "V_pv/POTCAR",
+      "sha256": "7e6e3948baf479b1e61e3653bf3429049e07351b243ece4a7a45499cd5dea1a0"
+    }
+  ]
+}

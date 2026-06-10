@@ -1,0 +1,13 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Li",
+      "potcar_symbol": "Li",
+      "title": "PAW_PBE Li 17Jan2003",
+      "potcar_set": "PBE",
+      "sha256": "12da2066d530f5d960dcc4f9a2a61f463fe6a7234feb761e5af612f2acf66d78",
+      "path_hint": "\\\\wsl.localhost\\Ubuntu\\home\\billtao\\vasp_potentials\\PBE\\Li\\POTCAR"
+    }
+  ]
+}

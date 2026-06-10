@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Mg",
+      "potcar_symbol": "Mg",
+      "path_hint": "Mg/POTCAR",
+      "sha256": "91e560d99171f01a757253583d9a257ca7aab8911d7fa28ebabfbf3e6356a096"
+    },
+    {
+      "element": "Te",
+      "potcar_symbol": "Te",
+      "path_hint": "Te/POTCAR",
+      "sha256": "420e8b7fcf5a5d19a78e04e0a5e018a05054b0d224e312acd94c67083917fab3"
+    }
+  ]
+}

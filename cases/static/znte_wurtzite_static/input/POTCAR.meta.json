@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Zn",
+      "potcar_symbol": "Zn",
+      "path_hint": "Zn/POTCAR",
+      "sha256": "a9e75569c74432b6efe4f522da7317143f7ca230c1076b8adbff8e3ef9494c0b"
+    },
+    {
+      "element": "Te",
+      "potcar_symbol": "Te",
+      "path_hint": "Te/POTCAR",
+      "sha256": "420e8b7fcf5a5d19a78e04e0a5e018a05054b0d224e312acd94c67083917fab3"
+    }
+  ]
+}

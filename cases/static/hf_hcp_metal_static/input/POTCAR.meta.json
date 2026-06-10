@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Hf",
+      "potcar_symbol": "Hf_pv",
+      "path_hint": "Hf_pv/POTCAR",
+      "sha256": "db42cd3e4a48e81eaff18895282e2f5a37f2c8c6a4b9ac45e357affc13c83b84"
+    }
+  ]
+}

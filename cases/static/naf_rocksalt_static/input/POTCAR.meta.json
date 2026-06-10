@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "element": "Na",
+      "potcar_symbol": "Na_pv",
+      "path_hint": "Na_pv/POTCAR",
+      "sha256": "2b32d860c36ba9efd322064e6ef91f9ebc70c2d6cae24ff69702d8368748bb32"
+    },
+    {
+      "element": "F",
+      "potcar_symbol": "F",
+      "path_hint": "F/POTCAR",
+      "sha256": "ec55d2d2ba9b66dab8054d479e8aa803f576915d541bf26f5d1ecce77f4e501c"
+    }
+  ]
+}

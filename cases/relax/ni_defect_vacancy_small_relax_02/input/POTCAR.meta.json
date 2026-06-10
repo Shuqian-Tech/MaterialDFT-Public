@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Ni",
+      "potcar_symbol": "Ni",
+      "path_hint": "Ni/POTCAR",
+      "sha256": "bde0b7a69dbbe5155e6aeef3a1bec4c2f1dadf9dd7abd715899ab051906b2808"
+    }
+  ]
+}

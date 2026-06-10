@@ -1,0 +1,12 @@
+SYSTEM = Y01_static_hcp_mg_hex_001
+GGA = PE
+PREC = Normal
+ENCUT = 400
+EDIFF = 1e-05
+NELM = 60
+ISPIN = 1
+ISMEAR = 1
+SIGMA = 0.2
+NSW = 0
+IBRION = -1
+ISIF = 2

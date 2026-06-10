@@ -1,0 +1,14 @@
+{
+  "potcar_set": "PBE",
+  "entries": [
+    {
+      "element": "Ir",
+      "potcar_symbol": "Ir",
+      "title": "PBE/Ir",
+      "potcar_set": "PBE",
+      "sha256": "1a22da3672b114729b5f9ec8e36b09719dc19d22e27d40a296255630dd42b2d2",
+      "path_hint": "PBE/Ir/POTCAR"
+    }
+  ],
+  "notice": "POTCAR is not distributed in this public package. Provide a VASP-format POTCAR matching this input."
+}

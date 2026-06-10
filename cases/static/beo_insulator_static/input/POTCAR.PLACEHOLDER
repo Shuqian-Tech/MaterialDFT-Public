@@ -1,0 +1,2 @@
+本公开包不分发 POTCAR。
+运行本 case 时，请提供与 POSCAR 元素顺序和 POTCAR.meta.json 匹配、符合 VASP 格式的 POTCAR。

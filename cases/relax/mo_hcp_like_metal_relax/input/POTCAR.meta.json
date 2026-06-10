@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "element": "Mo",
+      "potcar_symbol": "Mo_pv",
+      "path_hint": "Mo_pv/POTCAR",
+      "sha256": "58bd9a91067c7debbbe0998aa4f061c16bcd88e23c3dfbf3beaa0862475a9462"
+    }
+  ]
+}
